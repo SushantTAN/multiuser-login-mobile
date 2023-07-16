@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976284158037",
+    "firebase_url": "https://fir-img-upload-903e0.firebaseio.com",
+    "project_id": "fir-img-upload-903e0",
+    "storage_bucket": "fir-img-upload-903e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976284158037:android:724363b6b86ed3c185acdc",
+        "android_client_info": {
+          "package_name": "com.example.multiuser_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976284158037-drpmscgu200vbvi8ng33tvuobbvi4qps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfZFwTtaJ3mEteRnJPWtSJCF848v5sig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976284158037-drpmscgu200vbvi8ng33tvuobbvi4qps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
